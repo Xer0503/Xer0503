@@ -16,7 +16,7 @@ I'm Rexie Villanueva, a dedicated and enthusiastic web development student curre
 - CSS3
 - JavaScript (ES6+)
 - C++
-- Python
+- Python (flask)
 - PHP
 
 **Frameworks & Tools:**
