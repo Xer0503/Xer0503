@@ -12,9 +12,9 @@ I'm Rexie Villanueva, a dedicated and enthusiastic web development student curre
 🛠 **Skills**
 
 **Languages:**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+- HTML
+- CSS
+- JavaScript
 - C++
 - Python (flask)
 - PHP
