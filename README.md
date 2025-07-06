@@ -18,6 +18,7 @@ I'm Rexie Villanueva, a dedicated and enthusiastic web development student curre
 - C++
 - Python (flask)
 - PHP
+- Java
 
 **Frameworks & Tools:**
 - Bootstrap 5
