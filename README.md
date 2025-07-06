@@ -1,6 +1,6 @@
 # 👨‍💻 Rexie Villanueva
 
-**1st Year Web Development Student | Passionate Programmer**
+**2nd Year Web Development Student | Passionate Programmer**
 
 ---
 
